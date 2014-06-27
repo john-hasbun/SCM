@@ -1,6 +1,6 @@
-SEO Content Manager:  
+###SEO Content Manager:  
   
-Copyright © 2014 Jonathan Hasbun  
+###Copyright © 2014 Jonathan Hasbun  
  
 ***  
    
