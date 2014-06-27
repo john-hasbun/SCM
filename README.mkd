@@ -1,0 +1,28 @@
+SEO Content Manager:  
+  
+Copyright © 2014 Jonathan Hasbun  
+ 
+***  
+   
+The SCM (SEO Content Manager) is used to make bulk landing pages that serve the  
+purpose of increasing a websites visibility.  
+
+  
+***  
+  
+###Version 0.1 -  
+  
+This is a rough prototype version of SCM. This version of SCM is meant to be a  
+base for the planned project as a whole. Features to be implemented are as  
+follows.   
+  
+Features:  
+* Bulk pages created from a list of cities  
+* Text substitution  
+  
+***  
+  
+###Future Features -  
+  
+* Optional Google Maps integration  
+* Keyword generator (take current keywords and generate a larger list)  
