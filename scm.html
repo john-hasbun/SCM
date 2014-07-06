@@ -13,38 +13,38 @@
 
         <!-- HEADER -->
         <header>
-            <p id="banner">The title will go here.</p>
+            <p id="banner">SEO Content Manager</p>
         </header>
 
         <!-- CONTENT -->
         <div id="body">
             <section id="content">
-				<form action="process.php" method="post">
-					<table id="form">
-						<tr>
-							<td><p>City:</p></td>
-							<td><input id="textbox" type="text" name="city" placeholder="ex. Portland, OR" autofocus></td>
-						</tr>
-						<tr>
-							<td><p>Target:</p></td>
-							<td><input type="text" name="target"></td>
-						</tr>
-						<tr>
-							<td><p>Upload Home page</p></td>
-							<td><input type="file" name="homepage"></td>
-						</tr>
-						<tr>
-							<td colspan="2"><input type="submit" value="submit"></td>
-						</tr>
-					</table>
-				</form>
-			</section>
-		</div>
+                <form enctype="multipart/form-data" action="process.php" method="post"> 
+                    <table id="form">
+                        <tr>
+                            <td><p>City:</p></td>
+                            <td><input id="textbox" type="text" name="city" placeholder="ex. Portland, OR" autofocus></td>
+                        </tr>
+                        <tr>
+                            <td><p>Title:</p></td>
+                            <td><input type="text" name="title"></td>
+                        </tr>
+                        <tr>
+                            <td><p>Upload Home page</p></td>
+                            <td><input type="file" name="file"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center"><input type="submit" value="submit"></td>
+                        </tr>
+                    </table>
+                </form>
+            </section>
+        </div>
 
-		<!-- FOOTER -->
-		<footer>
-			<p>The footer will go here</p>
-		</footer>
-	</div>
+        <!-- FOOTER -->
+        <footer>
+            <p></p>
+        </footer>
+    </div>
 </body>
 </html>

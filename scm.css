@@ -11,6 +11,9 @@ header {
     width: 100%;
     background-color: #AA5555;
     color: #FFFFFF;
+}
+
+#banner {
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -30,6 +33,20 @@ header {
     margin: 0 auto;
 }
 
+#form {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
 #textbox {
     height: 200px;
+}
+
+footer {
+    position: absolute;
+    top: 1070px;
+    height: 30px;
+    width: 100%;
+    background-color: #AA5555;
+    color: #FFFFFF;
 }

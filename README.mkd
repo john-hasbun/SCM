@@ -8,7 +8,17 @@ The SCM (SEO Content Manager) is used to make bulk landing pages that serve the
 purpose of increasing a websites visibility.  
 
   
-***  
+***
+
+###Version 1.0 -
+
+This implements the base functionality of SCM allowing for the creation of
+multiple landing pages at once.
+
+Features:
+* Bulk pages created from a list of cities
+* Text substitution
+* Creates a compressed folder with created landing pages.  
   
 ###Version 0.1 -  
   
